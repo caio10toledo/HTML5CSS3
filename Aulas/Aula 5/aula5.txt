@@ -7,3 +7,10 @@ float: right;
    deslocado
 */
 clear: both; /*empurra o elmento abaixo dos floats*/
+______________________________________________________
+Propriedade display: ("elemento")
+
+display: in-line block("exibir o elemento na horizontal")
+display: block ("exibir o elemento na vertical")
+display: none ("não exibe o elemento")
+display: flex ("layout")
